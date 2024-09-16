@@ -1,6 +1,6 @@
 package day1;
 
-public class ExampleThree {
+public class Operators {
     public static void main(String[] args) {
         int numStudents = 14;   // variables are declared using camelCase
         double vol = 123.7;     // double holds floating point decimal numbers, works like float

@@ -1,9 +1,6 @@
 package day1;
 
-/**
- * ExampleOne
- */
-public class ExampleOne {
+public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello ICS3U!");
     }
