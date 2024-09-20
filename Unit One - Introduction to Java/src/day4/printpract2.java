@@ -8,5 +8,6 @@ public class printpract2 {
 
         int sum = x + y;
         System.out.println(sum);
+        System.out.println(x + " + " + y + " = " + (x + y)); //String Concatenation
     }
 }
