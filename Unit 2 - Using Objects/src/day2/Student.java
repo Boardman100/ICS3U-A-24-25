@@ -1,6 +1,6 @@
-package day1;
+package day2;
 public class Student {
-    // Data members
+    // Data members/instance variables/attributes
     private String name;
     private int age;
     private String studentId;
@@ -9,7 +9,8 @@ public class Student {
     private int year;
     private boolean isFullTime;
 
-    // Constructor
+    // Constructor -> Creates the object and sets the initial state (gives the attributes initial values)
+    // Arguments are in the round brackets, they are required for the function/method for Java - to execute
     public Student(String name, int age, String studentId, double gpa, String major, int year, boolean isFullTime) {
         this.name = name;
         this.age = age;
@@ -20,7 +21,7 @@ public class Student {
         this.isFullTime = isFullTime;
     }
 
-    // Methods
+    // Methods - not all methods require arguments
     public void study(int hours) {
         System.out.println(name + " studied for " + hours + " hours.");
     }
