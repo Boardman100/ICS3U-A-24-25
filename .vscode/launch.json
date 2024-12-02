@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ExampleOne",
+            "request": "launch",
+            "mainClass": "day1.ExampleOne",
+            "projectName": "ICS3U Java_edd62016"
+        },
+        {
+            "type": "java",
+            "name": "Driver",
+            "request": "launch",
+            "mainClass": "day2.Driver",
+            "projectName": "ICS3U Java_edd62016"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "day3.Main",
+            "projectName": "ICS3U Java_edd62016"
+        },
+        {
+            "type": "java",
+            "name": "Driver(1)",
+            "request": "launch",
+            "mainClass": "day4.Driver",
+            "projectName": "ICS3U Java_edd62016"
+        },
+        {
+            "type": "java",
+            "name": "MathExamples",
+            "request": "launch",
+            "mainClass": "day4.MathExamples",
+            "projectName": "ICS3U Java_edd62016"
+        },
+        {
+            "type": "java",
+            "name": "WrapperExample",
+            "request": "launch",
+            "mainClass": "day4.WrapperExample",
+            "projectName": "ICS3U Java_edd62016"
+        },
+        {
+            "type": "java",
+            "name": "ManipulatingStrings",
+            "request": "launch",
+            "mainClass": "day5.ManipulatingStrings",
+            "projectName": "ICS3U Java_edd62016"
+        },
+        {
+            "type": "java",
+            "name": "RandomTest",
+            "request": "launch",
+            "mainClass": "day5.RandomTest",
+            "projectName": "ICS3U Java_edd62016"
+        },
+        {
+            "type": "java",
+            "name": "StringExample",
+            "request": "launch",
+            "mainClass": "day5.StringExample",
+            "projectName": "ICS3U Java_edd62016"
+        },
+        {
+            "type": "java",
+            "name": "string",
+            "request": "launch",
+            "mainClass": "day6.string",
+            "projectName": "ICS3U Java_edd62016"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "day6.test",
+            "projectName": "ICS3U Java_edd62016"
+        }
+    ]
+}
